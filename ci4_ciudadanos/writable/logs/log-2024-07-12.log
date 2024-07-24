@@ -1,0 +1,60 @@
+CRITICAL - 2024-07-12 15:33:13 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "ver_regiones.php"
+[Method: GET, Route: ver_regiones]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('ver_regiones.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('ver_regiones', [], true)
+ 3 APPPATH\Controllers\Region.php(9): view('ver_regiones')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Region->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Region))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-12 15:34:22 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "region.php"
+[Method: GET, Route: ver_regiones]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('region.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('region', [], true)
+ 3 APPPATH\Controllers\region.php(9): view('region')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Region->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Region))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-12 15:35:02 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "region.php"
+[Method: GET, Route: ver_regiones]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('region.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('region', [], true)
+ 3 APPPATH\Controllers\Region.php(9): view('region')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Region->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Region))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-12 15:35:35 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "regiones.php"
+[Method: GET, Route: ver_regiones]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('regiones.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('regiones', [], true)
+ 3 APPPATH\Controllers\Region.php(9): view('regiones')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Region->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Region))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-12 16:37:56 --> ParseError: syntax error, unexpected identifier "nombre", expecting "]"
+[Method: GET, Route: ver_regiones]
+in APPPATH\Models\RegionesModel.php on line 8.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\fs2024\\ci4_ciudadanos\\app\\Models\\RegionesModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\RegionesModel')
+ 3 APPPATH\Controllers\Region.php(12): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\RegionesModel')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Region->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Region))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

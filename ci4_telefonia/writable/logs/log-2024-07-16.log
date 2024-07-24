@@ -1,0 +1,21 @@
+CRITICAL - 2024-07-16 22:44:22 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "lineas_telefonicas.php"
+[Method: GET, Route: ver_lineas]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('lineas_telefonicas.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('lineas_telefonicas', [], true)
+ 3 APPPATH\Controllers\Lineas.php(16): view('lineas_telefonicas', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lineas->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lineas))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-16 22:46:01 --> Error: Class "App\Models\CiudadanosModel" not found
+[Method: GET, Route: ver_planes]
+in APPPATH\Controllers\Planes.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Planes->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Planes))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

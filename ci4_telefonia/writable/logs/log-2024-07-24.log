@@ -1,0 +1,372 @@
+CRITICAL - 2024-07-24 16:52:47 --> CodeIgniter\Database\Exceptions\DatabaseException: Deletes are not allowed unless they contain a "where" or "like" clause.
+[Method: GET, Route: eliminar_cliente/0]
+in SYSTEMPATH\Database\BaseBuilder.php on line 2806.
+ 1 SYSTEMPATH\Model.php(521): CodeIgniter\Database\BaseBuilder->delete()
+ 2 SYSTEMPATH\BaseModel.php(1158): CodeIgniter\Model->doDelete('0', false)
+ 3 APPPATH\Controllers\ClientesController.php(48): CodeIgniter\BaseModel->delete('0')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientesController->eliminarCliente('0')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ClientesController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-24 16:56:39 --> CodeIgniter\Database\Exceptions\DatabaseException: Deletes are not allowed unless they contain a "where" or "like" clause.
+[Method: GET, Route: eliminar_cliente/0]
+in SYSTEMPATH\Database\BaseBuilder.php on line 2806.
+ 1 SYSTEMPATH\Model.php(521): CodeIgniter\Database\BaseBuilder->delete()
+ 2 SYSTEMPATH\BaseModel.php(1158): CodeIgniter\Model->doDelete('0', false)
+ 3 APPPATH\Controllers\ClientesController.php(48): CodeIgniter\BaseModel->delete('0')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientesController->eliminarCliente('0')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ClientesController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-24 16:56:40 --> CodeIgniter\Database\Exceptions\DatabaseException: Deletes are not allowed unless they contain a "where" or "like" clause.
+[Method: GET, Route: eliminar_cliente/0]
+in SYSTEMPATH\Database\BaseBuilder.php on line 2806.
+ 1 SYSTEMPATH\Model.php(521): CodeIgniter\Database\BaseBuilder->delete()
+ 2 SYSTEMPATH\BaseModel.php(1158): CodeIgniter\Model->doDelete('0', false)
+ 3 APPPATH\Controllers\ClientesController.php(48): CodeIgniter\BaseModel->delete('0')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientesController->eliminarCliente('0')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ClientesController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-24 17:00:22 --> CodeIgniter\Database\Exceptions\DatabaseException: Deletes are not allowed unless they contain a "where" or "like" clause.
+[Method: GET, Route: eliminar_cliente/0]
+in SYSTEMPATH\Database\BaseBuilder.php on line 2806.
+ 1 SYSTEMPATH\Model.php(521): CodeIgniter\Database\BaseBuilder->delete()
+ 2 SYSTEMPATH\BaseModel.php(1158): CodeIgniter\Model->doDelete('0', false)
+ 3 APPPATH\Controllers\ClientesController.php(48): CodeIgniter\BaseModel->delete('0')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientesController->eliminarCliente('0')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ClientesController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-24 17:00:32 --> CodeIgniter\Database\Exceptions\DatabaseException: Deletes are not allowed unless they contain a "where" or "like" clause.
+[Method: GET, Route: eliminar_cliente/0]
+in SYSTEMPATH\Database\BaseBuilder.php on line 2806.
+ 1 SYSTEMPATH\Model.php(521): CodeIgniter\Database\BaseBuilder->delete()
+ 2 SYSTEMPATH\BaseModel.php(1158): CodeIgniter\Model->doDelete('0', false)
+ 3 APPPATH\Controllers\ClientesController.php(48): CodeIgniter\BaseModel->delete('0')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientesController->eliminarCliente('0')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ClientesController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-24 17:24:27 --> CodeIgniter\Database\Exceptions\DatabaseException: Deletes are not allowed unless they contain a "where" or "like" clause.
+[Method: GET, Route: eliminar_cliente/0]
+in SYSTEMPATH\Database\BaseBuilder.php on line 2806.
+ 1 SYSTEMPATH\Model.php(521): CodeIgniter\Database\BaseBuilder->delete()
+ 2 SYSTEMPATH\BaseModel.php(1158): CodeIgniter\Model->doDelete('0', false)
+ 3 APPPATH\Controllers\ClientesController.php(48): CodeIgniter\BaseModel->delete('0')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientesController->eliminarCliente('0')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ClientesController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-24 17:29:01 --> ParseError: syntax error, unexpected token "|"
+[Method: GET, Route: eliminar_cliente/1]
+in APPPATH\Controllers\ClientesController.php on line 50.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\fs2024\\ci4_telefonia\\app\\Controllers\\ClientesController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\ClientesController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\ClientesController')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\ClientesController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-24 17:29:08 --> ParseError: syntax error, unexpected token "|"
+[Method: GET, Route: eliminar_cliente/1]
+in APPPATH\Controllers\ClientesController.php on line 50.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\fs2024\\ci4_telefonia\\app\\Controllers\\ClientesController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\ClientesController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\ClientesController')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\ClientesController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-24 17:29:11 --> ParseError: syntax error, unexpected token "|"
+[Method: GET, Route: eliminar_cliente/1]
+in APPPATH\Controllers\ClientesController.php on line 50.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\fs2024\\ci4_telefonia\\app\\Controllers\\ClientesController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\ClientesController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\ClientesController')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\ClientesController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-24 17:29:12 --> ParseError: syntax error, unexpected token "|"
+[Method: GET, Route: ver_clientes]
+in APPPATH\Controllers\ClientesController.php on line 50.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\fs2024\\ci4_telefonia\\app\\Controllers\\ClientesController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\ClientesController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\ClientesController')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\ClientesController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-24 17:34:40 --> ErrorException: Undefined array key "nombre"
+[Method: GET, Route: buscar_linea/559745]
+in APPPATH\Views\form_modificar_linea.php on line 25.
+ 1 APPPATH\Views\form_modificar_linea.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nombre"', 'C:\\xampp\\htdocs\\fs2024\\ci4_telefonia\\app\\Views\\form_modificar_linea.php', 25)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\fs2024\\ci4_telefonia\\app\\Views\\form_modificar_linea.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('form_modificar_linea', [], true)
+ 5 APPPATH\Controllers\LineasController.php(50): view('form_modificar_linea', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\LineasController->buscarLinea('559745')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LineasController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-24 17:35:09 --> ErrorException: Undefined array key "nombre"
+[Method: GET, Route: buscar_linea/41404502]
+in APPPATH\Views\form_modificar_linea.php on line 25.
+ 1 APPPATH\Views\form_modificar_linea.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nombre"', 'C:\\xampp\\htdocs\\fs2024\\ci4_telefonia\\app\\Views\\form_modificar_linea.php', 25)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\fs2024\\ci4_telefonia\\app\\Views\\form_modificar_linea.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('form_modificar_linea', [], true)
+ 5 APPPATH\Controllers\LineasController.php(50): view('form_modificar_linea', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\LineasController->buscarLinea('41404502')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LineasController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-24 17:37:49 --> ErrorException: Undefined array key "pago_mensual"
+[Method: GET, Route: buscar_linea/41404502]
+in APPPATH\Views\form_modificar_linea.php on line 30.
+ 1 APPPATH\Views\form_modificar_linea.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "pago_mensual"', 'C:\\xampp\\htdocs\\fs2024\\ci4_telefonia\\app\\Views\\form_modificar_linea.php', 30)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\fs2024\\ci4_telefonia\\app\\Views\\form_modificar_linea.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('form_modificar_linea', [], true)
+ 5 APPPATH\Controllers\LineasController.php(50): view('form_modificar_linea', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\LineasController->buscarLinea('41404502')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LineasController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-24 17:38:17 --> ErrorException: Undefined array key "cantidad_minutos"
+[Method: GET, Route: buscar_linea/41404502]
+in APPPATH\Views\form_modificar_linea.php on line 35.
+ 1 APPPATH\Views\form_modificar_linea.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "cantidad_minutos"', 'C:\\xampp\\htdocs\\fs2024\\ci4_telefonia\\app\\Views\\form_modificar_linea.php', 35)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\fs2024\\ci4_telefonia\\app\\Views\\form_modificar_linea.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('form_modificar_linea', [], true)
+ 5 APPPATH\Controllers\LineasController.php(50): view('form_modificar_linea', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\LineasController->buscarLinea('41404502')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LineasController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-24 17:41:00 --> CodeIgniter\Database\Exceptions\DatabaseException: Deletes are not allowed unless they contain a "where" or "like" clause.
+[Method: GET, Route: eliminar_cliente/0]
+in SYSTEMPATH\Database\BaseBuilder.php on line 2806.
+ 1 SYSTEMPATH\Model.php(521): CodeIgniter\Database\BaseBuilder->delete()
+ 2 SYSTEMPATH\BaseModel.php(1158): CodeIgniter\Model->doDelete('0', false)
+ 3 APPPATH\Controllers\ClientesController.php(48): CodeIgniter\BaseModel->delete('0')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientesController->eliminarCliente('0')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ClientesController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-24 17:47:49 --> CodeIgniter\Database\Exceptions\DatabaseException: Updates are not allowed unless they contain a "where" or "like" clause.
+[Method: POST, Route: modificar_plan]
+in SYSTEMPATH\Model.php on line 456.
+ 1 SYSTEMPATH\BaseModel.php(1028): CodeIgniter\Model->doUpdate(null, [...])
+ 2 SYSTEMPATH\Model.php(865): CodeIgniter\BaseModel->update(null, [...])
+ 3 APPPATH\Controllers\PlanesController.php(70): CodeIgniter\Model->update(null, [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PlanesController->modificarPlan()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PlanesController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-24 17:48:20 --> CodeIgniter\Database\Exceptions\DatabaseException: Updates are not allowed unless they contain a "where" or "like" clause.
+[Method: POST, Route: modificar_plan]
+in SYSTEMPATH\Model.php on line 456.
+ 1 SYSTEMPATH\BaseModel.php(1028): CodeIgniter\Model->doUpdate(null, [...])
+ 2 SYSTEMPATH\Model.php(865): CodeIgniter\BaseModel->update(null, [...])
+ 3 APPPATH\Controllers\PlanesController.php(70): CodeIgniter\Model->update(null, [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PlanesController->modificarPlan()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PlanesController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-24 17:50:42 --> ParseError: syntax error, unexpected token "=", expecting "]"
+[Method: POST, Route: modificar_plan]
+in APPPATH\Controllers\PlanesController.php on line 60.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\fs2024\\ci4_telefonia\\app\\Controllers\\PlanesController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\PlanesController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\PlanesController')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\PlanesController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-24 17:51:20 --> ParseError: syntax error, unexpected token ";", expecting "]"
+[Method: POST, Route: modificar_plan]
+in APPPATH\Controllers\PlanesController.php on line 60.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\fs2024\\ci4_telefonia\\app\\Controllers\\PlanesController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\PlanesController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\PlanesController')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\PlanesController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-07-24 17:51:37 --> mysqli_sql_exception: Unknown column 'planes.id' in 'where clause' in C:\xampp\htdocs\fs2024\ci4_telefonia\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\fs2024\ci4_telefonia\system\Database\MySQLi\Connection.php(312): mysqli->query('UPDATE `planes`...', 0)
+#1 C:\xampp\htdocs\fs2024\ci4_telefonia\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `planes`...')
+#2 C:\xampp\htdocs\fs2024\ci4_telefonia\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `planes`...')
+#3 C:\xampp\htdocs\fs2024\ci4_telefonia\system\Database\BaseBuilder.php(2508): CodeIgniter\Database\BaseConnection->query('UPDATE `planes`...', Array, false)
+#4 C:\xampp\htdocs\fs2024\ci4_telefonia\system\Model.php(461): CodeIgniter\Database\BaseBuilder->update()
+#5 C:\xampp\htdocs\fs2024\ci4_telefonia\system\BaseModel.php(1028): CodeIgniter\Model->doUpdate(Array, Array)
+#6 C:\xampp\htdocs\fs2024\ci4_telefonia\system\Model.php(865): CodeIgniter\BaseModel->update(Array, Array)
+#7 C:\xampp\htdocs\fs2024\ci4_telefonia\app\Controllers\PlanesController.php(68): CodeIgniter\Model->update('2', Array)
+#8 C:\xampp\htdocs\fs2024\ci4_telefonia\system\CodeIgniter.php(933): App\Controllers\PlanesController->modificarPlan()
+#9 C:\xampp\htdocs\fs2024\ci4_telefonia\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PlanesController))
+#10 C:\xampp\htdocs\fs2024\ci4_telefonia\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\fs2024\ci4_telefonia\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\fs2024\ci4_telefonia\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\xampp\htdocs\fs2024\ci4_telefonia\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2024-07-24 17:51:37 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'planes.id' in 'where clause'
+[Method: POST, Route: modificar_plan]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2508): CodeIgniter\Database\BaseConnection->query('UPDATE `planes` SET `plan_id` = :plan_id:, `nombre` = :nombre:, `pago_mensual` = :pago_mensual:, `cantidad_minutos` = :cantidad_minutos:, `cantidad_mensajes` = :cantidad_mensajes:
+WHERE `planes`.`id` IN :planes.id:', [...], false)
+ 2 SYSTEMPATH\Model.php(461): CodeIgniter\Database\BaseBuilder->update()
+ 3 SYSTEMPATH\BaseModel.php(1028): CodeIgniter\Model->doUpdate([...], [...])
+ 4 SYSTEMPATH\Model.php(865): CodeIgniter\BaseModel->update([...], [...])
+ 5 APPPATH\Controllers\PlanesController.php(68): CodeIgniter\Model->update('2', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PlanesController->modificarPlan()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PlanesController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-24 17:51:37 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'planes.id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `planes` SET `plan_id` = \'2\', `nombre` = \'M 300\', `pago_mensual` = \'150.00\', `cantidad_minutos` = \'300\', `cantidad_mensajes` = \'1554\'
+WHERE `planes`.`id` IN (\'2\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `planes` SET `plan_id` = \'2\', `nombre` = \'M 300\', `pago_mensual` = \'150.00\', `cantidad_minutos` = \'300\', `cantidad_mensajes` = \'1554\'
+WHERE `planes`.`id` IN (\'2\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2508): CodeIgniter\Database\BaseConnection->query('UPDATE `planes` SET `plan_id` = :plan_id:, `nombre` = :nombre:, `pago_mensual` = :pago_mensual:, `cantidad_minutos` = :cantidad_minutos:, `cantidad_mensajes` = :cantidad_mensajes:
+WHERE `planes`.`id` IN :planes.id:', [...], false)
+ 4 SYSTEMPATH\Model.php(461): CodeIgniter\Database\BaseBuilder->update()
+ 5 SYSTEMPATH\BaseModel.php(1028): CodeIgniter\Model->doUpdate([...], [...])
+ 6 SYSTEMPATH\Model.php(865): CodeIgniter\BaseModel->update([...], [...])
+ 7 APPPATH\Controllers\PlanesController.php(68): CodeIgniter\Model->update('2', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PlanesController->modificarPlan()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PlanesController))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-24 17:51:37 --> [Caused by] mysqli_sql_exception: Unknown column 'planes.id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('UPDATE `planes` SET `plan_id` = \'2\', `nombre` = \'M 300\', `pago_mensual` = \'150.00\', `cantidad_minutos` = \'300\', `cantidad_mensajes` = \'1554\'
+WHERE `planes`.`id` IN (\'2\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `planes` SET `plan_id` = \'2\', `nombre` = \'M 300\', `pago_mensual` = \'150.00\', `cantidad_minutos` = \'300\', `cantidad_mensajes` = \'1554\'
+WHERE `planes`.`id` IN (\'2\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `planes` SET `plan_id` = \'2\', `nombre` = \'M 300\', `pago_mensual` = \'150.00\', `cantidad_minutos` = \'300\', `cantidad_mensajes` = \'1554\'
+WHERE `planes`.`id` IN (\'2\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2508): CodeIgniter\Database\BaseConnection->query('UPDATE `planes` SET `plan_id` = :plan_id:, `nombre` = :nombre:, `pago_mensual` = :pago_mensual:, `cantidad_minutos` = :cantidad_minutos:, `cantidad_mensajes` = :cantidad_mensajes:
+WHERE `planes`.`id` IN :planes.id:', [...], false)
+ 5 SYSTEMPATH\Model.php(461): CodeIgniter\Database\BaseBuilder->update()
+ 6 SYSTEMPATH\BaseModel.php(1028): CodeIgniter\Model->doUpdate([...], [...])
+ 7 SYSTEMPATH\Model.php(865): CodeIgniter\BaseModel->update([...], [...])
+ 8 APPPATH\Controllers\PlanesController.php(68): CodeIgniter\Model->update('2', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PlanesController->modificarPlan()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PlanesController))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-07-24 17:53:34 --> mysqli_sql_exception: Unknown column 'id' in 'where clause' in C:\xampp\htdocs\fs2024\ci4_telefonia\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\fs2024\ci4_telefonia\system\Database\MySQLi\Connection.php(312): mysqli->query('DELETE FROM `pl...', 0)
+#1 C:\xampp\htdocs\fs2024\ci4_telefonia\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `pl...')
+#2 C:\xampp\htdocs\fs2024\ci4_telefonia\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `pl...')
+#3 C:\xampp\htdocs\fs2024\ci4_telefonia\system\Database\BaseBuilder.php(2835): CodeIgniter\Database\BaseConnection->query('DELETE FROM `pl...', Array, false)
+#4 C:\xampp\htdocs\fs2024\ci4_telefonia\system\Model.php(521): CodeIgniter\Database\BaseBuilder->delete()
+#5 C:\xampp\htdocs\fs2024\ci4_telefonia\system\BaseModel.php(1158): CodeIgniter\Model->doDelete(Array, false)
+#6 C:\xampp\htdocs\fs2024\ci4_telefonia\app\Controllers\PlanesController.php(45): CodeIgniter\BaseModel->delete(Array)
+#7 C:\xampp\htdocs\fs2024\ci4_telefonia\system\CodeIgniter.php(933): App\Controllers\PlanesController->eliminarPlan('2')
+#8 C:\xampp\htdocs\fs2024\ci4_telefonia\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PlanesController))
+#9 C:\xampp\htdocs\fs2024\ci4_telefonia\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\fs2024\ci4_telefonia\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\fs2024\ci4_telefonia\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\xampp\htdocs\fs2024\ci4_telefonia\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 {main}
+CRITICAL - 2024-07-24 17:53:34 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'id' in 'where clause'
+[Method: GET, Route: eliminar_plan/2]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2835): CodeIgniter\Database\BaseConnection->query('DELETE FROM `planes`
+WHERE `id` IN :id:', [...], false)
+ 2 SYSTEMPATH\Model.php(521): CodeIgniter\Database\BaseBuilder->delete()
+ 3 SYSTEMPATH\BaseModel.php(1158): CodeIgniter\Model->doDelete([...], false)
+ 4 APPPATH\Controllers\PlanesController.php(45): CodeIgniter\BaseModel->delete([...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PlanesController->eliminarPlan('2')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PlanesController))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-24 17:53:34 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `planes`
+WHERE `id` IN (\'2\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `planes`
+WHERE `id` IN (\'2\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2835): CodeIgniter\Database\BaseConnection->query('DELETE FROM `planes`
+WHERE `id` IN :id:', [...], false)
+ 4 SYSTEMPATH\Model.php(521): CodeIgniter\Database\BaseBuilder->delete()
+ 5 SYSTEMPATH\BaseModel.php(1158): CodeIgniter\Model->doDelete([...], false)
+ 6 APPPATH\Controllers\PlanesController.php(45): CodeIgniter\BaseModel->delete([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PlanesController->eliminarPlan('2')
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PlanesController))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-24 17:53:34 --> [Caused by] mysqli_sql_exception: Unknown column 'id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('DELETE FROM `planes`
+WHERE `id` IN (\'2\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `planes`
+WHERE `id` IN (\'2\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `planes`
+WHERE `id` IN (\'2\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2835): CodeIgniter\Database\BaseConnection->query('DELETE FROM `planes`
+WHERE `id` IN :id:', [...], false)
+ 5 SYSTEMPATH\Model.php(521): CodeIgniter\Database\BaseBuilder->delete()
+ 6 SYSTEMPATH\BaseModel.php(1158): CodeIgniter\Model->doDelete([...], false)
+ 7 APPPATH\Controllers\PlanesController.php(45): CodeIgniter\BaseModel->delete([...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PlanesController->eliminarPlan('2')
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PlanesController))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

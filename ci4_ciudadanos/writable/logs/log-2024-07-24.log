@@ -1,0 +1,43 @@
+CRITICAL - 2024-07-24 15:10:26 --> Error: Class "App\Controllers\CiudadanoModel" not found
+[Method: GET, Route: buscar_ciudadano/1009916131106]
+in APPPATH\Controllers\CiudadanosController.php on line 61.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\CiudadanosController->buscarCiudadano('1009916131106')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CiudadanosController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-24 15:12:30 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "form_modificar ciudadano.php"
+[Method: GET, Route: buscar_ciudadano/1009916131106]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form_modificar ciudadano.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('form_modificar ciudadano', [], true)
+ 3 APPPATH\Controllers\CiudadanosController.php(63): view('form_modificar ciudadano', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\CiudadanosController->buscarCiudadano('1009916131106')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CiudadanosController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-24 15:24:24 --> ErrorException: Undefined array key "cod_municipio"
+[Method: POST, Route: modificar_municipio]
+in APPPATH\Controllers\MunicipiosController.php on line 61.
+ 1 APPPATH\Controllers\MunicipiosController.php(61): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "cod_municipio"', 'C:\\xampp\\htdocs\\fs2024\\ci4_ciudadanos\\app\\Controllers\\MunicipiosController.php', 61)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MunicipiosController->modificarMunicipio()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MunicipiosController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-24 15:28:48 --> ParseError: Unmatched '}'
+[Method: GET, Route: ver_niveles]
+in APPPATH\Controllers\NivelesAcademicosController.php on line 68.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\fs2024\\ci4_ciudadanos\\app\\Controllers\\NivelesAcademicosController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\NivelesAcademicosController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\NivelesAcademicosController')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\NivelesAcademicosController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
