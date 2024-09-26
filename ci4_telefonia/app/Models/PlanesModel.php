@@ -8,4 +8,4 @@ class PlanesModel extends Model
    protected $primaryKey = 'plan_id'; 
    protected $allowedFields= ['plan_id','nombre','pago_mensual','cantidad_minutos','cantidad_mensajes'];
 }
-?>
+

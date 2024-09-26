@@ -10,3 +10,5 @@ class ClientesModel extends Model
    protected $allowedFields= ['cliente_id','apellido','nombre','correo_electronico','calle_avenida','no_casa','zona'];
 }
 ?>
+
+

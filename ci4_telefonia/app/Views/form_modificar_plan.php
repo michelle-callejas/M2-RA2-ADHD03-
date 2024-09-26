@@ -41,7 +41,7 @@
                     value="<?= $datos['cantidad_mensajes']; ?>">
             </div>
 
-            <input type="submit" id="btnEnviar" name="btnEnviar" class="bbtn btn-secondary btn-outline-primary" value="Enviar">
+            <input type="submit" id="btnEnviar" name="btnEnviar" class="btn btn-secondary btn-outline-primary" value="Enviar">
 
         </form>
     </div>
